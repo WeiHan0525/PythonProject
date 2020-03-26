@@ -30,7 +30,4 @@ studentB = input('Enter your name: ')
 print(studentA, studentB)
 
 
-class Student:
-    def __init__(self):
-        self.name = 'studentA'
 
